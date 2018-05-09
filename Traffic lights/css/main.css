@@ -1,0 +1,50 @@
+body{
+	background-color:blue;
+	
+	color: red;
+	text-align: center;
+}
+.case{
+	width:300px;
+	background-color: black;
+	margin:	0 auto;
+	padding-top: 20px;
+	/*box-sizing : border-box;*/
+	border-radius: 10px;
+	height:400px;
+
+}
+./*case1{background-color: red;
+	   margin:0 auto;
+	   padding: 6px;
+	   width: 90px;
+	   margin-bottom: 10px;
+	   height:90px;
+	   border-radius: 60px;*/
+
+
+}
+
+.case2{
+	background-color: yellow;
+	margin:0 auto;
+	padding: 5px;
+	width: 90px;
+	margin-bottom: 10px;
+	height: 90px;
+	border-radius: 60px;
+}
+/*.case3{
+	background-color: green;
+	margin:0 auto;
+	padding: 5px;
+	width: 90px;
+	height: 90px;
+	border-radius: 60px;
+}
+.case4{
+	background-color: black;
+	width: 100px;
+	height: 200px;
+	margin: 0 auto;
+}*/
